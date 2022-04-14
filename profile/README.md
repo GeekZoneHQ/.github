@@ -7,6 +7,6 @@ We also encourage contributions from everyone! PRs are welcome and if you [join 
 
 Thanks again and see you soon!
 
-## Migration from 'master'
+## Inclusive naming
 
-Our industry is moving toward [more inclusive terminology](https://sfconservancy.org/news/2020/jun/23/gitbranchname/), so Geek.Zone has taken the decision to do likewise. As of 2022-04-30T17:00, Geek.Zone will begin to retire all instances of the term 'master' from our codebase, replacing it with 'main'. Please ensure that you have updated your local repo accordingly.
+We have renamed all our default branches to `main` and will continue to strive for [inclusive naming](https://inclusivenaming.org/word-lists/tier-1/). Please update your local repo accordingly.
