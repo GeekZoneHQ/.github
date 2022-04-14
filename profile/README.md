@@ -13,4 +13,4 @@ We have renamed all our default branches to `main` and will continue to strive f
 
 ## Getting Started
 
-If you want to contribute directly, we suggest starting by taking the [Geek.Zone/DevInduction](Geek.Zone/DevInduction)! This brief introduction should take no more than 15 mins and will get you all set up with all of the things.
+If you want to contribute directly, we suggest starting by taking the [Geek.Zone/DevInduction](http://Geek.Zone/DevInduction)! This brief introduction should take no more than 15 mins and will get you all set up with all of the things.
